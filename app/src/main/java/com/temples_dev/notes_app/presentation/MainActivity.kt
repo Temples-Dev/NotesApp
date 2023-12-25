@@ -1,4 +1,4 @@
-package com.temples_dev.notes_app
+package com.temples_dev.notes_app.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
